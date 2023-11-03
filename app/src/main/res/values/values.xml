@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lb_focus_zoom_factor_xlarge" type="fraction">134%</item>
+    <item name="lb_focus_zoom_factor_large" type="fraction">118%</item>
+    <item name="lb_focus_zoom_factor_medium" type="fraction">114%</item>
+    <item name="lb_focus_zoom_factor_small" type="fraction">110%</item>
+    <item name="lb_focus_zoom_factor_xsmall" type="fraction">106%</item>
+    <item name="lb_focus_zoom_factor_xxsmall" type="fraction">104%</item>
+    <item name="lb_focus_zoom_factor_xxxsmall" type="fraction">102%</item>
+
+    <item name="lb_focus_animator" type="id"/>
+
+    <item format="float" name="lb_browse_header_select_scale" type="dimen">1.2</item>
+    <item format="integer" name="lb_browse_header_select_duration" type="dimen">150</item>
+</resources>
